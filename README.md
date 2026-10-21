@@ -214,15 +214,19 @@ A small starter repository from a Git/GitHub workshop — part of the learning t
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Phantomterminal?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MORE_EXPERIMENTS-101722?style=for-the-badge&logo=github&logoColor=FF66DA" alt="Other public repositories"/>
+<a href="https://github.com/Phantomterminal/devops">
+<img src="https://img.shields.io/badge/PROJECT_07-DEVOPS_LEARNING-101722?style=for-the-badge&logo=linux&logoColor=FF66DA" alt="DevOps learning repository"/>
 </a>
 
-### 🧪 More Experiments
+### ⚙️ DevOps Learning Archive
 
-Smaller coursework, prototypes, DevOps learning, and exploratory repositories are available in the complete repository list.
+A small repository from the DevOps learning track. It is currently archived, so this is a record of exploration rather than an active project.
 
-[**Browse all repositories ↗**](https://github.com/Phantomterminal?tab=repositories)
+[**Open repository ↗**](https://github.com/Phantomterminal/devops)
+
+<br/>
+
+[**Browse all other repositories ↗**](https://github.com/Phantomterminal?tab=repositories)
 
 </td>
 </tr>
@@ -333,9 +337,11 @@ Smaller coursework, prototypes, DevOps learning, and exploratory repositories ar
 
 </div>
 
-I enjoy community challenges and creative, GitHub-themed activities that turn an idea into something people can see and use. My approach is to make an original submission, document the process, learn from feedback, and share the result with the community.
+I'm participating in a **GitHub-themed creative community challenge** built around **Build · Learn · Share · Grow**. I enjoy turning a brief into an original visual idea, presenting it clearly, and sharing the result with the community.
 
-<sub>This section highlights participation and learning, not unverified awards or rankings. Specific event names and results can be linked here when confirmed.</sub>
+I'm also building my cybersecurity foundation through hands-on labs and CTF-style learning exercises, focusing on methodology, documentation, and defensive understanding.
+
+<sub>No competition placements, certificates, or awards are claimed here. Named events and results can be added once their exact details are confirmed.</sub>
 
 ---
 
