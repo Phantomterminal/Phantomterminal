@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,32,45&height=220&section=header&text=Suresh%20Dwivedi&fontSize=50&fontAlign=50&fontAlignY=38&animation=twinkling&theme=tokyonight" width="100%" />
 
-<!--
-**Phantomterminal/Phantomterminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- TYPING EFFECT SUBTITLE -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&height=50&lines=Cybersecurity+%26+Ethical+Hacking;AI+%26+Cloud+Architecture;Full-Stack+Software+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+
+```yaml
+developer: Suresh Dwivedi
+role: Cybersecurity & AI Enthusiast
+learning: Cloud Security, Advanced Penetration Testing & Applied ML
+passion: Building secure systems & intelligent automation
+status: 🚀 Open to open-source collaborations & hackathons
