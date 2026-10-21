@@ -1,134 +1,170 @@
 <div align="center">
 
-# `Phantomterminal`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05060b,25:101a31,60:00f5d4,100:ff36c7&text=PHANTOMTERMINAL&fontSize=42&fontColor=ffffff&fontAlignY=37&animation=twinkling&desc=SWASTIK%20DWIVEDI%20%2F%2F%20DEVELOPER%20%2F%2F%20CYBERSECURITY&descSize=13&descAlignY=58" width="100%" alt="Phantomterminal cyberpunk animated header"/>
 
-### `Swastik Dwivedi` · Developer · Cybersecurity Enthusiast
+<a href="https://github.com/Phantomterminal"><img src="https://img.shields.io/badge/ACCESS-Phantomterminal-0b0d14?style=for-the-badge&logo=github&logoColor=00f5d4&labelColor=0b0d14" alt="GitHub profile"/></a>
+<img src="https://komarev.com/ghpvc/?username=Phantomterminal&style=for-the-badge&color=ff36c7&label=PROFILE+VISITS" alt="Profile visits"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%2F%20BUILDING-0b0d14?style=for-the-badge&labelColor=0b0d14&color=00f5d4" alt="Learning and building"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090b10,45:6ef7e8,100:ff4fd8&height=180&section=header&text=ACCESS%20GRANTED&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Breaking%20%7C%20Learning&descAlignY=60&descSize=14" width="100%" alt="Cyberpunk banner"/>
+### `> Think deeper. Build smarter. Test responsibly.`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Phantomterminal-111827?style=for-the-badge&logo=github&logoColor=65f7e2)](https://github.com/Phantomterminal)
-[![Profile Views](https://komarev.com/ghpvc/?username=Phantomterminal&style=for-the-badge&color=0e9f8f&label=PROFILE+SCANS)](https://github.com/Phantomterminal)
+[ `PROJECTS` ](https://github.com/Phantomterminal?tab=repositories) · [ `ACTIVITY` ](https://github.com/Phantomterminal?tab=overview) · [ `CONNECT` ](#-establish-connection)
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 // IDENTITY`
 
-```text
-NAME       : Swastik Dwivedi
-ALIAS      : Phantomterminal
-FOCUS      : Cybersecurity • Software Development • AI
-MINDSET    : Learn by building. Test responsibly. Keep improving.
-CURRENTLY  : Strengthening networking, Linux, Python, and security foundations
+```bash
+┌──(phantomterminal㉿github)-[~]
+└─$ whoami
+Swastik Dwivedi
+
+└─$ focus --current
+Cybersecurity | Software Development | AI
+
+└─$ mission
+Understand systems. Build useful tools. Make security practical.
 ```
 
-I'm a developer exploring the intersection of **cybersecurity, AI, and practical software tools**. I enjoy learning how systems work, experimenting in authorized labs, and turning ideas into projects.
-
-- 🔐 Interested in ethical security testing, red teaming, and defensive thinking
-- 🧠 Exploring AI-assisted workflows and local LLMs
-- 🛠️ Learning through hands-on labs, experiments, and open-source projects
-- 🤝 Open to learning, constructive feedback, and collaboration
-
-## `> featured_projects`
+I'm a developer and cybersecurity enthusiast interested in how software, networks, and AI fit together. I learn by building projects, experimenting in **authorized labs**, and improving my fundamentals one layer at a time.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ AI Red Team Orchestrator
-An AI-assisted security workflow concept for authorized labs, combining network reconnaissance, service enumeration, risk analysis, attack-path reasoning, and remediation guidance.
-
-**Exploring:** `Python` · `FastAPI` · `Nmap` · `Ollama / Qwen`
-
-[View my repositories →](https://github.com/Phantomterminal?tab=repositories)
+### ◈ THE SECURITY SIDE
+- Network reconnaissance & service enumeration
+- Ethical security testing
+- Threat intelligence
+- Defensive thinking & remediation
 
 </td>
 <td width="50%" valign="top">
 
+### ◈ THE BUILDER SIDE
+- Python & scripting
+- AI-assisted workflows
+- Local LLM experimentation
+- Practical tools & open source
+
+</td>
+</tr>
+</table>
+
+## `02 // FEATURED BUILDS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Phantomterminal?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_01-RED_TEAM_AI-101525?style=for-the-badge&logo=probot&logoColor=00f5d4" alt="Red Team AI"/></a>
+
+### 🛡️ AI Red Team Orchestrator
+
+A security-workflow project concept for authorized labs, bringing together reconnaissance, service discovery, AI-assisted risk analysis, attack-path reasoning, and remediation recommendations.
+
+`PYTHON` `FASTAPI` `NMAP` `OLLAMA / QWEN`
+
+<a href="https://github.com/Phantomterminal?tab=repositories">⌁ Explore repositories →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Phantomterminal?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_02-COMPUTER_VISION-101525?style=for-the-badge&logo=opencv&logoColor=ff36c7" alt="Computer Vision"/></a>
+
 ### 👁️ AI Video Attendance
-A computer-vision attendance system concept with student record management, manual attendance, and a dashboard-oriented workflow.
 
-**Exploring:** `Python` · `Computer Vision` · `Dashboards`
+A concept for camera-assisted attendance and student record management, with manual attendance support and a dashboard-oriented workflow.
 
-[View my repositories →](https://github.com/Phantomterminal?tab=repositories)
+`PYTHON` `COMPUTER VISION` `DASHBOARDS`
+
+<a href="https://github.com/Phantomterminal?tab=repositories">⌁ Explore repositories →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Krishi Drishti AI
-An agriculture-focused AI project idea exploring accessible insights for practical, field-level decisions.
+<a href="https://github.com/Phantomterminal?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_03-AGRI_AI-101525?style=for-the-badge&logo=leaflet&logoColor=00f5d4" alt="Agriculture AI"/></a>
 
-**Exploring:** `AI` · `Research` · `Problem Solving`
+### 🌱 Krishi Drishti AI
+
+An agriculture-focused AI idea exploring accessible insights for practical, field-level decisions.
+
+`AI` `RESEARCH` `PROBLEM SOLVING`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 AI Video Generator
-Exploring AI-assisted media workflows, including clip selection, content processing, and automation.
+<a href="https://github.com/Phantomterminal?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_04-CREATIVE_AUTOMATION-101525?style=for-the-badge&logo=ffmpeg&logoColor=ff36c7" alt="Creative automation"/></a>
 
-**Exploring:** `Python` · `Automation` · `AI Tools`
+### 🎬 AI Video Generator
+
+Exploring AI-assisted media workflows, including clip selection, content processing, and creation-pipeline automation.
+
+`PYTHON` `AUTOMATION` `AI TOOLS`
 
 </td>
 </tr>
 </table>
 
-> Project cards describe my areas of work and project concepts. Check linked repositories for implementation details and current status.
+> **Transparency note:** These summaries describe project concepts and areas of work. Visit the repositories for the current implementation status; don't treat a concept as a finished release.
 
-## `> tech_arsenal`
+## `03 // TECH STACK`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=65f7e2)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=65f7e2)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=65f7e2)
-![Nmap](https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=target&logoColor=ff4fd8)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=65f7e2)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=ff4fd8)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff)
-![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=65f7e2)
+<img src="https://skillicons.dev/icons?i=python,c,linux,git,github,fastapi,vscode&theme=dark&perline=7" alt="Python, C, Linux, Git, GitHub, FastAPI, VS Code icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NMAP-RECON-0b0d14?style=flat-square&logo=target&logoColor=00f5d4" alt="Nmap"/>
+<img src="https://img.shields.io/badge/OLLAMA-LOCAL_LLM-0b0d14?style=flat-square&logo=ollama&logoColor=00f5d4" alt="Ollama"/>
+<img src="https://img.shields.io/badge/QWEN-AI_EXPERIMENTS-0b0d14?style=flat-square&logoColor=ff36c7" alt="Qwen"/>
+<img src="https://img.shields.io/badge/NETWORKING-FOUNDATIONS-0b0d14?style=flat-square&logo=cisco&logoColor=00f5d4" alt="Networking"/>
 
 </div>
 
-**Security interests:** Network reconnaissance · Service enumeration · Threat intelligence · Web security · Detection and defense · Responsible red teaming
+## `04 // LEARNING PROTOCOL`
 
-## `> currently_learning`
+<table>
+<tr><td> <code>[01]</code> </td><td>Networking fundamentals & packet flow</td><td>▰▰▱</td></tr>
+<tr><td> <code>[02]</code> </td><td>Linux, CLI & Python scripting</td><td>▰▰▱</td></tr>
+<tr><td> <code>[03]</code> </td><td>Web security & safe lab practice</td><td>▰▱▱</td></tr>
+<tr><td> <code>[04]</code> </td><td>Detection, defense & responsible red teaming</td><td>▰▱▱</td></tr>
+</table>
 
-```text
-[01] Networking fundamentals
-[02] Linux and scripting
-[03] Python for security automation
-[04] Web application security
-[05] Defensive security and responsible red teaming
-```
+<sub>Learning indicators are informal focus markers, not certification or proficiency claims.</sub>
 
-## `> github_telemetry`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phantomterminal&show_icons=true&hide_border=true&bg_color=090b10&title_color=65f7e2&icon_color=ff4fd8&text_color=e5e7eb&rank_icon=github" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantomterminal&layout=compact&hide_border=true&bg_color=090b10&title_color=65f7e2&text_color=e5e7eb" alt="Top languages"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Phantomterminal&hide_border=true&background=090b10&ring=65f7e2&fire=ff4fd8&currStreakLabel=65f7e2&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9ca3af" alt="GitHub streak"/>
-
-</div>
-
-## `> connect`
+## `05 // GITHUB TELEMETRY`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-Phantomterminal-111827?style=for-the-badge&logo=github&logoColor=65f7e2)](https://github.com/Phantomterminal?tab=repositories)
+<img src="https://github-readme-stats.vercel.app/api?username=Phantomterminal&show_icons=true&hide_border=true&bg_color=080a12&title_color=00f5d4&icon_color=ff36c7&text_color=e8ecf7&rank_icon=github&include_all_commits=true" height="175" alt="GitHub stats"/>
 
-<!-- Replace the LinkedIn URL below with your exact profile URL. -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=65f7e2)](https://www.linkedin.com/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantomterminal&layout=compact&hide_border=true&bg_color=080a12&title_color=00f5d4&text_color=e8ecf7" height="175" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,50:6ef7e8,100:090b10&height=100&section=footer" width="100%" alt="Neon footer"/>
-
-<sub><code>END OF TRANSMISSION // BUILD WITH CURIOSITY. USE YOUR SKILLS RESPONSIBLY.</code></sub>
+<img src="https://streak-stats.demolab.com?user=Phantomterminal&hide_border=true&background=080a12&ring=00f5d4&fire=ff36c7&currStreakLabel=00f5d4&sideLabels=e8ecf7&currStreakNum=e8ecf7&sideNums=e8ecf7&dates=929ab1" width="90%" alt="GitHub contribution streak"/>
 
 </div>
+
+## `06 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+<a href="https://github.com/Phantomterminal?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-00f5d4?style=for-the-badge&logo=github&logoColor=080a12" alt="Explore code"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ff36c7?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ff36c7,50:111a30,100:00f5d4&animation=twinkling" width="100%" alt="Animated neon footer"/>
+
+**`END OF TRANSMISSION`**  
+<sub>Curiosity is the exploit. Knowledge is the patch. Use your skills responsibly.</sub>
+
+</div>
+
