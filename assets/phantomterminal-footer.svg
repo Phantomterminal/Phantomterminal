@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 122" width="1120" height="122" role="img" aria-labelledby="t d">
+<title id="t">End of transmission</title><desc id="d">A neon cyberterminal sign-off.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#79f6ff"/><stop offset=".5" stop-color="#a996ff"/><stop offset="1" stop-color="#ff66da"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}@keyframes scan{0%{transform:translateY(-120px);opacity:0}15%{opacity:.45}90%{opacity:.2}100%{transform:translateY(125px);opacity:0}}@keyframes blink{50%{opacity:.25}}.scan{animation:scan 5s linear infinite}.blink{animation:blink 1.8s ease-in-out infinite}</style></defs>
+<rect x="1" y="1" width="1118" height="120" rx="15" fill="#080c16" stroke="#27334a"/>
+<path d="M28 34h70l15 15H185M1092 34h-70l-15 15H935M28 88h70l15-15H185M1092 88h-70l-15-15H935" fill="none" stroke="url(#g)" stroke-opacity=".5"/>
+<g class="blink" fill="#79f6ff"><circle cx="34" cy="60" r="3"/><circle cx="1086" cy="60" r="3"/></g>
+<text x="560" y="55" font-size="24" font-weight="700" text-anchor="middle" letter-spacing="3" fill="#edf5ff" filter="url(#gl)">END OF TRANSMISSION</text>
+<path d="M360 68H760" stroke="url(#g)" stroke-width="1.6" filter="url(#gl)"/>
+<text x="560" y="91" font-size="11" text-anchor="middle" letter-spacing="2.1" fill="#92a4bf">STAY CURIOUS  ·  STAY ETHICAL  ·  KEEP SHIPPING</text>
+<rect class="scan" x="8" y="0" width="1104" height="2" fill="#79f6ff" opacity=".45"/>
+</svg>
